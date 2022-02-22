@@ -2,3 +2,4 @@
 - sugab
 - kuro
 - shiroe
+- jagu
